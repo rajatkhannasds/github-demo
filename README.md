@@ -1,2 +1,2 @@
 # github-demo
-Demo for github commands
+Demo for basic github commands.
